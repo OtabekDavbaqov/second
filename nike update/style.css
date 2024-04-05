@@ -1,0 +1,229 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    cursor: cell;
+}
+.ul{
+   margin-top: 5px;
+}
+nav{
+    background-image: url(./img/photo1.png);
+    background-repeat: no-repeat;
+
+}
+.h64{
+    padding-top: 10px;
+    font-weight: bold;
+    margin-left: 384px;
+    font-size: 20px;
+}
+.h6{
+    color: #cb0a15;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav  ul .h6{
+    padding-right: 20px;
+    color: #ce2c32;
+    font-size: 22px;
+}
+.ppp3{
+    display: flex;
+}
+nav .ul{
+    padding-left: 647px;
+    display: flex;
+    gap: 51px;
+    margin-right: 418px;
+}
+.sh{
+    font-weight: bold;
+    margin-left: 7px;
+    margin-top: 22px;
+    color: #000000;
+}
+.ul :hover{
+    width: 100px;
+    height: 30px;
+    color: #f7f7f7;
+    background-color: #515151;
+    transition: 0.9s;
+}
+
+.nike_logo{
+    color: #ce2c32;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.middle {
+    margin-top: 250px;
+    padding-left: 675px;
+    padding-bottom: 270px;
+}
+.nike_logo{
+    padding-left: 230px;
+}
+.nike_text2{
+    color: #4d4d4d;
+    margin-left: 5px;
+    margin-top: 22px;
+}
+.nike_text{
+    color: #4d4d4d;
+    padding-left: 60px;
+    padding-top: 21px;
+}
+nav a{
+    text-decoration: none;
+    color: #4d4d4d;
+}
+.p1{
+    display: flex;
+    margin-top: 55px;
+    padding-left: 406px;
+    width: 540px;
+    height: 400px;
+}
+.name{
+    padding-left: 405px;
+}
+.name2{
+    line-height: 24px;
+    padding-left: 405px;
+    width: 548px;
+    height: 228px;
+}
+.pp1{
+    width: 160px;
+    height: 160px;
+    margin-top: 55px;
+    margin-left: 37px;
+}
+main{
+    display: flex;
+}
+.pp1_text1{
+   font-weight: bold;
+   margin-left: 221px;
+   margin-bottom: 200px;
+   margin-top: -160px;
+}
+.pp1_text2{
+    margin-top: -190px;
+    margin-left: 225px;
+    width: 358px;
+    height: 95px;
+}
+.pp2{
+    margin-top: 32px;
+    margin-left: 20px;
+}
+.pp2_text{
+    font-weight: bold;
+    margin-left: 221px;
+    margin-bottom: 200px;
+    margin-top: -160px;
+    font-size: 24px;
+}
+.pp2_text2{
+    margin-top: -190px;
+    margin-left: 225px;
+    width: 358px;
+    height: 95px;
+}
+.pp3{
+    margin-top: 52px;
+    margin-left: 40px;
+}
+.pp3_text{
+    font-weight: bold;
+    margin-left: 221px;
+    margin-bottom: 200px;
+    margin-top: -160px;
+    font-size: 24px; 
+}
+.pp3_text2{
+    margin-top: -190px;
+    margin-left: 225px;
+    width: 358px;
+    height: 95px;
+}
+.pp4{
+    margin-top: 52px;
+    margin-left: 40px;
+}
+.fulll{
+    margin-top: 100px;
+    width: 1919px;
+    height: 297px;
+    background-color: #f9f9f9;
+}
+footer a{
+    color: #828080;
+}
+.word{
+    font-size: 33px;
+    font-weight: bold;
+}
+.ff{
+    margin-left: 360px;
+    display: flex;
+    gap: 110px;
+}
+.ll2{
+    margin-left: 90px;
+}
+.ll3{
+    margin-left: 60px;
+}
+.ll4{
+    margin-left: 90px;
+}
+.ff2{
+    margin-top: 20px;
+    margin-left: 364px;
+    font-size: 23px;
+}
+.ff3{
+    margin-top: -180px;
+    margin-left: 714px;
+    font-size: 23px;
+}
+.ff4{
+    margin-top: -180px;
+    margin-left: 1044px;
+    font-size: 23px;
+}
+.ff5{
+    margin-top: -180px;
+    margin-left: 1394px;
+    font-size: 23px;
+}
+.ff1{
+    margin-top: -35px;
+    margin-left: 620px;
+    font-weight: bold;
+    font-size: 33px;
+    display: flex;
+    gap: 300px;
+}
+.ff1 a{
+    color: #cb0a15;
+    text-decoration: none;
+}
+.li1{
+    margin-left: -100px;
+}
+.li2{
+    margin-left: 30px;
+}
+.li3{
+    margin-left: -50px;
+}
+.li4{
+    margin-left: -00px;
+}
+.hhh{
+    padding-top: 50px;
+}
